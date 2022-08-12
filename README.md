@@ -76,7 +76,7 @@ The Calculator app will be revived completely, e.g. you will be able to launch i
 
 It comes with almost the full set of MUI files, so it will be in your native language out-of-the-box. The following locale list is supported: ar-sa, bg-bg, cs-cz, da-dk, de-de, el-gr, en-gb, en-us, es-es, es-mx, et-ee, fi-fi, fr-ca, fr-fr, he-il, hr-hr, hu-hu, it-it, ja-jp, ko-kr, lt-lt, lv-lv, nb-no, nl-nl, pl-pl, pt-br, pt-pt, ro-ro, ru-ru, sk-sk, sl-si, sr-latn-rs, sv-se, th-th, tr-tr, uk-ua, zh-cn, zh-hk, zh-tw.
 
-[Download Calculator](/download/oldcalcWin11Win10.zip) 
+[Download Calculator](https://github.com/p333ter/win7games/blob/main/Windows7Apps/oldcalcWin11Win10.zip) 
 
 Classic Sticky Notes
 --------------------
@@ -95,7 +95,7 @@ It comes with almost the full set of MUI files, so it will be in your native lan
 
 You can uninstall the app any time from Settings - Apps and features.
 
-[Download Sticky Notes](/download/ClassicStickyNotes2.zip) 
+[Download Sticky Notes](https://github.com/p333ter/win7games/blob/main/Windows7Apps/ClassicStickyNotes2.zip) 
 
 Classic Task Manager
 --------------------
@@ -110,7 +110,7 @@ It comes with almost the full set of MUI files, so it will be in your native lan
 
 You can uninstall the app any time from Settings - Apps and features.
 
-[Download Task Manager](/download/tm_cfg_win8_win10.zip) 
+[Download Task Manager](https://github.com/p333ter/win7games/blob/main/Windows7Apps/tm_cfg_win8_win10.zip) 
 
 Classic Msconfig
 ----------------
@@ -123,7 +123,7 @@ The installer inlcudes the classic `msconfig.exe` app with the startup tab in th
 
 You can uninstall the app any time from Settings - Apps and features.
 
-[Download Msconfig](/download/MSCONFIGforWindows10and8.zip) 
+[Download Msconfig](https://github.com/p333ter/win7games/blob/main/Windows7Apps/MSCONFIGforWindows10and8.zip) 
 
 Aurora Screen Saver
 -------------------
@@ -134,7 +134,7 @@ The Aurora screen saver for Windows 10, Windows 8.1, Windows 8, and Windows 7. I
 
 The pack contains the Aurora screensaver for 32bit and 64bit Windows versions. Use the appropriate file. Note that the exe file is nothing more than just a handy GUI for the file copy operation.
 
-[Download Aurora Screen Saver](/download/Aurora.zip) 
+[Download Aurora Screen Saver](https://github.com/p333ter/win7games/blob/main/Windows7Apps/Aurora.zip) 
 
 Classic Paint (mspaint)
 -----------------------
@@ -147,7 +147,7 @@ You will be able to launch it as "mspaint.exe" from the Run dialog or from the t
 
 It supports all Windows languages and locales, so its UI will be translated automatically.
 
-[Download Paint](/download/ClassicPaintforWindows10.zip) 
+[Download Paint](https://github.com/p333ter/win7games/blob/main/Windows7Apps/ClassicPaintforWindows10.zip) 
 
 Disclaimer
 ----------
